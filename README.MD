@@ -1,6 +1,4 @@
-Here's a refined version of your README with improved structure, clarity, and conciseness:
 
----
 
 # 🪰 Fly Detection using YOLOv10 with Frame Slicing
 

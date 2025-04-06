@@ -43,10 +43,7 @@ python detectection.py \
   
 ```
 
-**Key Arguments:**
-- `--slice-size`: Optimal window size for detection (adjust based on object size)
-- `--conf`: Detection confidence threshold
-- `--track`: Enable ByteTrack for object tracking
+
 
 ## 📊 Performance Tips
 
